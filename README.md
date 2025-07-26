@@ -514,3 +514,24 @@ I've implemented Amazon GuardDuty as my primary threat detection service, contin
 
 ---
 > **"Security is not a destination, but a journey. I'm committed to continuous learning and improvement in cloud security."**
+
+---
+
+## 🔒 **Security Note**
+
+> **⚠️ Important:** I have intentionally not uploaded any screenshots or images from my actual AWS account due to security concerns. While I could have included visual documentation of my implementations, I prioritized protecting sensitive information such as:
+> - Account IDs and resource identifiers
+> - Network configurations and IP addresses
+> - Security group rules and access patterns
+> - IAM user details and permission structures
+> - VPC configurations and routing tables
+> - CloudTrail logs and monitoring data
+> - Cost and billing information
+> - Resource naming conventions that could reveal infrastructure details
+
+> **🛡️ Security First Approach:** This decision reflects my commitment to security best practices. Even in a learning environment, I believe in maintaining strict security hygiene and not exposing any information that could potentially be used maliciously or reveal details about my infrastructure architecture.
+
+> **📚 Documentation Focus:** Instead of screenshots, I've focused on providing comprehensive textual documentation that demonstrates my understanding and implementation of AWS security concepts, best practices, and architectural decisions.
+
+---
+
